@@ -224,24 +224,27 @@ Trong Sprint, tất cả công việc cần thiết để đạt **Product Goal*
 Sprint giúp Scrum Team kiểm tra và thích ứng liên tục để đạt được Product Goal và Mục tiêu Sprint. Nhóm có thể chọn độ 
 dài Sprint phù hợp, miễn là không quá một tháng. Các Sprint ngắn giúp tăng chu kỳ học hỏi và giảm rủi ro.
 
-<img>
+![Sprint](https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/images/Sprint.png)
 
 **2. Sprint Planning là gì?**
 
 Sprint Planning là sự kiện mở đầu của Sprint, nơi toàn bộ nhóm cùng nhau lên kế hoạch cho công việc thực hiện trong Sprint.
 
 Sprint Planning sẽ tập trung vào 3 câu hỏi chính:
-Sprint này mang lại giá trị gì?
-Product Owner đề xuất cách cải thiện giá trị sản phẩm trong Sprint.
-Nhóm Scrum thảo luận và xác định Sprint Goal, giúp truyền đạt giá trị Sprint đến các bên liên quan.
-Có thể hoàn thành những gì trong Sprint?
-Developers chọn các mục từ Product Backlog để đưa vào Sprint.
-Các mục này có thể được điều chỉnh để tăng mức độ hiểu biết và sự tự tin về khả năng hoàn thành.
-Làm thế nào để hoàn thành công việc đã chọn?
-Developers lên kế hoạch triển khai từng mục tiêu đã chọn, có thể chia nhỏ công việc thành các phần nhỏ hơn.
-Nhóm có quyền tự quyết định cách thực hiện, không ai ngoài họ có thể áp đặt phương pháp làm việc.
+
+    **Sprint này mang lại giá trị gì?**
+    - Product Owner đề xuất cách cải thiện giá trị sản phẩm trong Sprint.
+    - Nhóm Scrum thảo luận và xác định Sprint Goal, giúp truyền đạt giá trị Sprint đến các bên liên quan.
+    **Có thể hoàn thành những gì trong Sprint?**
+    - Developers chọn các mục từ Product Backlog để đưa vào Sprint.
+    - Các mục này có thể được điều chỉnh để tăng mức độ hiểu biết và sự tự tin về khả năng hoàn thành.
+    **Làm thế nào để hoàn thành công việc đã chọn?**
+    - Developers lên kế hoạch triển khai từng mục tiêu đã chọn, có thể chia nhỏ công việc thành các phần nhỏ hơn.
+    - Nhóm có quyền tự quyết định cách thực hiện, không ai ngoài họ có thể áp đặt phương pháp làm việc.
+
 Sprint Backlog bao gồm Sprint Goal, các mục tiêu từ Product Backlog đã chọn, và kế hoạch thực hiện.
-Sprint Planning giới hạn thời gian tối đa là 8 giờ cho Sprint kéo dài một tháng. Nếu Sprint ngắn hơn, thời gian lập kế 
+
+Sprint Planning **giới hạn thời gian tối đa là 8 giờ** cho **Sprint kéo dài một tháng.** Nếu Sprint ngắn hơn, thời gian lập kế 
 hoạch cũng sẽ được rút ngắn tương ứng.
 
 
