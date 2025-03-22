@@ -445,10 +445,9 @@ Definition of Done có thể được mở rộng để đảm bảo các tiêu 
     """)
 
     st.markdown("""<h3>VI. Lợi ích của Scrum Framework</h3>""", unsafe_allow_html=True)
-    st.markdown("""
-    
-**1. Tăng khả năng thích ứng và linh hoạt **
-
+    st.markdown(
+        """
+**1. Tăng khả năng thích ứng và linh hoạt**
 - Scrum giúp nhóm phản ứng nhanh với sự thay đổi yêu cầu từ khách hàng hoặc thị trường.
 - Thay vì lên kế hoạch cố định dài hạn, nhóm làm việc theo từng Sprint ngắn (thường là 2-4 tuần), dễ dàng điều chỉnh hướng 
 đi khi cần.
@@ -459,19 +458,19 @@ Definition of Done có thể được mở rộng để đảm bảo các tiêu 
 không cần thiết.
 - Scrum khuyến khích các cuộc họp ngắn hằng ngày (Daily Scrum) giúp nhanh chóng phát hiện và giải quyết vấn đề.
 
-**3. Tăng chất lượng sản phẩm **
+**3. Tăng chất lượng sản phẩm**
 
 - Mỗi Increment (phần sản phẩm hoàn thành) phải đáp ứng tiêu chuẩn Definition of Done, đảm bảo chất lượng trước khi phát 
 hành.
 - Scrum tạo điều kiện cho phản hồi sớm từ khách hàng hoặc người dùng, giúp cải thiện sản phẩm liên tục.
 
-**4. Minh bạch và cải thiện sự phối hợp trong nhóm **
+**4. Minh bạch và cải thiện sự phối hợp trong nhóm**
 
 - Tất cả thành viên đều có chung hiểu biết về tiến độ công việc thông qua các Artifact như Product Backlog, Sprint 
 Backlog, và Increment.
 - Cuộc họp Sprint Review giúp nhóm đánh giá kết quả, còn Sprint Retrospective giúp nhóm cải thiện cách làm việc.
 
-**5. Giảm rủi ro **
+**5. Giảm rủi ro**
 
 - Scrum giúp phát hiện và xử lý rủi ro sớm nhờ cách làm việc theo chu kỳ ngắn.
 - Thay vì đợi đến cuối dự án để kiểm tra, Scrum liên tục cung cấp các phiên bản sản phẩm nhỏ nhưng có thể sử dụng được.
@@ -582,7 +581,7 @@ nhiên, trong thực tế, không phải nhóm nào cũng có thể áp dụng m
     st.markdown("""Jira là một công cụ phổ biến được Atlassian phát triển để hỗ trợ quản lý dự án theo Scrum, giúp lập 
     kế hoạch, theo dõi và quản lý các nhiệm vụ trong nhóm.
     
-    [Scrum Framework trong Jira.mp4](https://drive.google.com/file/d/1egH6nyQmaXCtzAuqVhKfGydTZzpF8bOy/view)
+[Scrum Framework trong Jira.mp4](https://drive.google.com/file/d/1egH6nyQmaXCtzAuqVhKfGydTZzpF8bOy/view)
     """)
 
     st.markdown("""<h3>IX. Kết luận</h3>""", unsafe_allow_html=True)
@@ -630,5 +629,5 @@ _MUST-KNOW Jira features for Scrum Masters_ [Video]. YouTube. Retrieved March 6,
 # Tab 2 - Video
 with tab2:
     st.subheader("Video mô tả quy trình làm việc Scrum trong Jira")
-    st.video("https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/")
+    st.video("https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/Scrum%20Framework%20trong%20Jira.mp4")
 
