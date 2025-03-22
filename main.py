@@ -232,74 +232,89 @@ Sprint Planning là sự kiện mở đầu của Sprint, nơi toàn bộ nhóm 
 
 Sprint Planning sẽ tập trung vào 3 câu hỏi chính:
 
-    **Sprint này mang lại giá trị gì?**
-    - Product Owner đề xuất cách cải thiện giá trị sản phẩm trong Sprint.
-    - Nhóm Scrum thảo luận và xác định Sprint Goal, giúp truyền đạt giá trị Sprint đến các bên liên quan.
-    **Có thể hoàn thành những gì trong Sprint?**
-    - Developers chọn các mục từ Product Backlog để đưa vào Sprint.
-    - Các mục này có thể được điều chỉnh để tăng mức độ hiểu biết và sự tự tin về khả năng hoàn thành.
-    **Làm thế nào để hoàn thành công việc đã chọn?**
-    - Developers lên kế hoạch triển khai từng mục tiêu đã chọn, có thể chia nhỏ công việc thành các phần nhỏ hơn.
-    - Nhóm có quyền tự quyết định cách thực hiện, không ai ngoài họ có thể áp đặt phương pháp làm việc.
+**Sprint này mang lại giá trị gì?**
+    
+- Product Owner đề xuất cách cải thiện giá trị sản phẩm trong Sprint.
+- Nhóm Scrum thảo luận và xác định Sprint Goal, giúp truyền đạt giá trị Sprint đến các bên liên quan.
+    
+**Có thể hoàn thành những gì trong Sprint?**
+- Developers chọn các mục từ Product Backlog để đưa vào Sprint.
+- Các mục này có thể được điều chỉnh để tăng mức độ hiểu biết và sự tự tin về khả năng hoàn thành.
+**Làm thế nào để hoàn thành công việc đã chọn?**    
+- Developers lên kế hoạch triển khai từng mục tiêu đã chọn, có thể chia nhỏ công việc thành các phần nhỏ hơn.
+- Nhóm có quyền tự quyết định cách thực hiện, không ai ngoài họ có thể áp đặt phương pháp làm việc.
 
 Sprint Backlog bao gồm Sprint Goal, các mục tiêu từ Product Backlog đã chọn, và kế hoạch thực hiện.
 
 Sprint Planning **giới hạn thời gian tối đa là 8 giờ** cho **Sprint kéo dài một tháng.** Nếu Sprint ngắn hơn, thời gian lập kế 
 hoạch cũng sẽ được rút ngắn tương ứng.
 
+![Sprint](https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/images/SprintPlanning.png)
 
 **3. Daily Scrum là gì?**
 
 Daily Scrum là cuộc họp 15 phút diễn ra hằng ngày trong Sprint, nơi Developers kiểm tra tiến độ và điều chỉnh kế hoạch 
 nếu cần. Cuộc họp giúp nhóm tập trung vào Sprint Goal và lập kế hoạch hành động cho ngày làm việc tiếp theo.
-Trong mỗi cuộc họp của Daily Scrum phải trả lời 3 câu hỏi:
-Hôm qua tôi đã làm gì để giúp nhóm đạt được mục tiêu Sprint?
-Hôm nay tôi sẽ làm gì để giúp nhóm đạt được mục tiêu Sprint?
-Có vấn đề gì cản trở tôi hoặc nhóm trong việc hoàn thành công việc không?
-Vai trò của Scrum Master:
-Đảm bảo cuộc họp diễn ra đúng kế hoạch.
-Hướng dẫn nhóm giữ thời gian họp không quá 15 phút.
-Đảm bảo không ai ngoài nhóm làm gián đoạn cuộc họp.
+
+**Trong mỗi cuộc họp của Daily Scrum phải trả lời 3 câu hỏi:**
+
+- Hôm qua tôi đã làm gì để giúp nhóm đạt được mục tiêu Sprint?
+- Hôm nay tôi sẽ làm gì để giúp nhóm đạt được mục tiêu Sprint?
+- Có vấn đề gì cản trở tôi hoặc nhóm trong việc hoàn thành công việc không?
+
+**Vai trò của Scrum Master:**
+- Đảm bảo cuộc họp diễn ra đúng kế hoạch.
+- Hướng dẫn nhóm giữ thời gian họp **không quá 15 phút.**
+- Đảm bảo không ai ngoài nhóm làm gián đoạn cuộc họp.
 
 **4. Sprint Review là gì?**
 
 Sprint Review là sự kiện đánh giá kết quả Sprint và xác định điều chỉnh cần thiết cho tương lai. Scrum Team trình bày 
 kết quả làm việc cho các bên liên quan và thảo luận về tiến độ đạt được đối với Product Goal.
-Mục tiêu của Sprint Review:
-Kiểm tra những gì đã hoàn thành và những gì chưa hoàn thành.
-Xác định các thay đổi cần thiết trong Product Backlog.
-Đánh giá tác động từ thị trường và người dùng.
-Cung cấp thông tin quan trọng cho Sprint Planning tiếp theo.
-Nội dung chính:
-Người tham gia: Scrum Team và các bên liên quan do Product Owner mời.
-Developers trình bày những công việc đã hoàn thành và cách giải quyết các vấn đề.
-Product Owner cập nhật trạng thái Product Backlog và dự đoán tiến độ.
-Cả nhóm cùng thảo luận về hướng đi tiếp theo.
-Sprint Review là sự kiện áp chót của Sprint, có giới hạn thời gian tối đa 4 giờ cho Sprint kéo dài một tháng (Sprint 
+
+**Mục tiêu của Sprint Review:**
+
+- Kiểm tra những gì đã hoàn thành và những gì chưa hoàn thành.
+- Xác định các thay đổi cần thiết trong Product Backlog.
+- Đánh giá tác động từ thị trường và người dùng.
+- Cung cấp thông tin quan trọng cho Sprint Planning tiếp theo.
+
+**Nội dung chính:**
+- Người tham gia: Scrum Team và các bên liên quan do Product Owner mời.
+- Developers trình bày những công việc đã hoàn thành và cách giải quyết các vấn đề.
+- Product Owner cập nhật trạng thái Product Backlog và dự đoán tiến độ.
+- Cả nhóm cùng thảo luận về hướng đi tiếp theo.
+
+**Sprint Review** là sự kiện **áp chót** của Sprint, có **giới hạn thời gian tối đa 4 giờ** cho Sprint kéo dài một tháng (Sprint 
 ngắn hơn sẽ có thời gian họp ngắn hơn).
-Kết quả:
-Product Backlog được cập nhật với các ưu tiên mới.
-Điều chỉnh kế hoạch để tối ưu hóa giá trị sản phẩm.
+**Kết quả:**
+- Product Backlog được cập nhật với các ưu tiên mới.
+- Điều chỉnh kế hoạch để tối ưu hóa giá trị sản phẩm.
 
 **5. Sprint Retrospective là gì?**
 
 Sprint Retrospective là sự kiện cuối cùng trong Sprint, giúp Scrum Team đánh giá cách làm việc của nhóm để cải thiện 
 chất lượng và hiệu suất cho các Sprint tiếp theo.
-Mục tiêu của Sprint Retrospective:
-Xem xét lại cách nhóm làm việc trong Sprint vừa qua.
-Xác định điểm mạnh và những vấn đề cần cải thiện.
-Đưa ra cam kết thay đổi để làm việc hiệu quả hơn.
-Nội dung chính:
-Scrum Team phân tích những gì đã làm tốt, những khó khăn gặp phải và cách giải quyết chúng.
-Xác định các cải tiến quan trọng nhất và ưu tiên triển khai sớm.
-Có thể điều chỉnh Definition of Done để nâng cao chất lượng sản phẩm.
-Vai trò của Scrum Master:
-Hướng dẫn nhóm tìm ra cách cải tiến quy trình làm việc.
-Đảm bảo Sprint Retrospective giúp nhóm thích ứng và phát triển.
- Giới hạn thời gian: Tối đa 3 giờ cho Sprint kéo dài một tháng (Sprint ngắn hơn thì họp ngắn hơn).
-Kết quả:
-Scrum Team xác định các cải tiến sẽ thực hiện trong Sprint tiếp theo.
-Đây là cơ hội chính thức để kiểm tra và điều chỉnh cách làm việc của nhóm.
+
+**Mục tiêu của Sprint Retrospective:**
+- Xem xét lại cách nhóm làm việc trong Sprint vừa qua.
+- Xác định điểm mạnh và những vấn đề cần cải thiện.
+- Đưa ra cam kết thay đổi để làm việc hiệu quả hơn.
+
+**Nội dung chính:**
+- Scrum Team phân tích những gì đã làm tốt, những khó khăn gặp phải và cách giải quyết chúng.
+- Xác định các cải tiến quan trọng nhất và ưu tiên triển khai sớm.
+- Có thể điều chỉnh Definition of Done để nâng cao chất lượng sản phẩm.
+
+**Vai trò của Scrum Master:**
+- Hướng dẫn nhóm tìm ra cách cải tiến quy trình làm việc.
+- Đảm bảo Sprint Retrospective giúp nhóm thích ứng và phát triển.
+ 
+Giới hạn thời gian: Tối đa 3 giờ cho Sprint kéo dài một tháng (Sprint ngắn hơn thì họp ngắn hơn).
+
+**Kết quả:**
+- Scrum Team xác định các cải tiến sẽ thực hiện trong Sprint tiếp theo.
+- Đây là cơ hội chính thức để kiểm tra và điều chỉnh cách làm việc của nhóm.
 
     """)
 
@@ -307,73 +322,87 @@ Scrum Team xác định các cải tiến sẽ thực hiện trong Sprint tiếp
     st.markdown("""
 Scrum Artifact giúp minh bạch hóa công việc và đo lường tiến độ. Mỗi artifact có một Commitment để đảm bảo tính tập 
 trung và rõ ràng:
-Product Backlog → Commitment: Product Goal
-Sprint Backlog → Commitment: Sprint Goal
-Increment → Commitment: Definition of Done
+
+- Product Backlog → Commitment: Product Goal
+- Sprint Backlog → Commitment: Sprint Goal
+- Increment → Commitment: Definition of Done
 
 **1.Product Backlog là gì?**
 
+![Sprint](https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/images/ProductBacklog.png)
+
 Product Backlog là danh sách có thứ tự ưu tiên, chứa tất cả các công việc cần thiết để cải thiện sản phẩm. Đây là nguồn 
 công việc duy nhất của Scrum Team.
-Quản lý Product Backlog:
-Các mục có thể hoàn thành trong một Sprint sẽ được chọn trong Sprint Planning.
- Product Backlog Refinement giúp chia nhỏ và làm rõ công việc, diễn ra liên tục để tăng tính minh bạch.
-Developers chịu trách nhiệm đánh giá kích thước công việc, còn Product Owner hỗ trợ ưu tiên và định hướng.
- Nếu nhiều Scrum Team cùng làm việc, họ sử dụng một Product Backlog chung.
-Cam kết: Product Goal
-Product Goal xác định trạng thái tương lai của sản phẩm và hướng dẫn Scrum Team lập kế hoạch.
-Product Backlog phản ánh những gì cần làm để đạt được Product Goal.
-Scrum Team phải hoàn thành hoặc từ bỏ một Product Goal trước khi bắt đầu mục tiêu mới.
-Tóm lại: Product Backlog giúp quản lý công việc linh hoạt, đảm bảo Scrum Team tập trung vào các mục tiêu quan trọng nhất 
+
+**Quản lý Product Backlog:**
+- Các mục có thể hoàn thành trong một Sprint sẽ được chọn trong Sprint Planning.
+- Product Backlog Refinement giúp chia nhỏ và làm rõ công việc, diễn ra liên tục để tăng tính minh bạch.
+- Developers chịu trách nhiệm đánh giá kích thước công việc, còn Product Owner hỗ trợ ưu tiên và định hướng.
+- Nếu nhiều Scrum Team cùng làm việc, họ sử dụng một Product Backlog chung.
+
+**Cam kết: Product Goal**
+- Product Goal xác định trạng thái tương lai của sản phẩm và hướng dẫn Scrum Team lập kế hoạch.
+- Product Backlog phản ánh những gì cần làm để đạt được Product Goal.
+- Scrum Team phải hoàn thành hoặc từ bỏ một Product Goal trước khi bắt đầu mục tiêu mới.
+
+**Tóm lại:** Product Backlog giúp quản lý công việc linh hoạt, đảm bảo Scrum Team tập trung vào các mục tiêu quan trọng nhất 
 để tạo ra giá trị cho sản phẩm. 
 
+![Sprint](https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/images/ProducBackLog1.png)
+
 **2. Sprint Backlog là gì?**
+
+![Sprint](https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/images/SprintBacklog.png)
 
 **2.1. Sprint Backlog là gì?**
 
 Theo Scrum Guide, Sprint Backlog bao gồm:
-Sprint Goal - Tại sao?
-Các mục từ Product Backlog được chọn cho Sprint (Cái gì?)
-Kế hoạch hành động để hoàn thành Increment (Làm thế nào?)
+- _Sprint Goal - Tại sao?_
+- _Các mục từ Product Backlog được chọn cho Sprint (Cái gì?)_
+- _Kế hoạch hành động để hoàn thành Increment (Làm thế nào?)_
+
 Sprint Backlog là một kế hoạch do các Developer tự quản lý. Đây là bức tranh thời gian thực về công việc họ sẽ thực hiện 
 trong Sprint để đạt được Sprint Goal. Sprint Backlog liên tục được cập nhật trong suốt Sprint khi có thêm thông tin mới. Nó cần đủ chi tiết để giúp nhóm kiểm tra tiến độ trong Daily Scrum.
+
 **2.2. Cam kết: Sprint Goal**
-Sprint Goal là mục tiêu chính của Sprint.
-Nó là một cam kết của Developer, nhưng vẫn có tính linh hoạt về công việc cụ thể để đạt được nó.
-Sprint Goal giúp đội Scrum làm việc có trọng tâm, tránh phân tán vào các nhiệm vụ riêng lẻ.
-Được thiết lập trong Sprint Planning và thêm vào Sprint Backlog.
-Nếu công việc thay đổi so với dự kiến, nhóm có thể thương lượng lại phạm vi Sprint Backlog và Product Owner mà không làm 
+- Sprint Goal là mục tiêu chính của Sprint.
+- Nó là một cam kết của Developer, nhưng vẫn có tính linh hoạt về công việc cụ thể để đạt được nó.
+- Sprint Goal giúp đội Scrum làm việc có trọng tâm, tránh phân tán vào các nhiệm vụ riêng lẻ.
+- Được thiết lập trong Sprint Planning và thêm vào Sprint Backlog.
+- Nếu công việc thay đổi so với dự kiến, nhóm có thể thương lượng lại phạm vi Sprint Backlog và Product Owner mà không làm 
 ảnh hưởng đến Sprint Goal.
 
 **2.3. Increment**
 
-Increment là một bước tiến cụ thể hướng tới Product Goal.
-Mỗi Increment phải có thể sử dụng và được kiểm tra kỹ lưỡng để đảm bảo tích hợp với các Increment trước đó.
-Có thể có nhiều Increment trong một Sprint, và tổng hợp chúng lại để trình bày trong Sprint Review.
-Một Increment có thể được phát hành tới khách hàng trước khi Sprint kết thúc.
-Công việc chỉ được coi là một phần của Increment nếu nó đáp ứng Definition of Done.
+- Increment là một bước tiến cụ thể hướng tới Product Goal.
+- Mỗi Increment phải có thể sử dụng và được kiểm tra kỹ lưỡng để đảm bảo tích hợp với các Increment trước đó.
+- Có thể có nhiều Increment trong một Sprint, và tổng hợp chúng lại để trình bày trong Sprint Review.
+- Một Increment có thể được phát hành tới khách hàng trước khi Sprint kết thúc.
+- Công việc chỉ được coi là một phần của Increment nếu nó đáp ứng Definition of Done.
 
 **3. Product Goal là gì?**
 
 **3.1. Product Goal là gì?**
 
-Product Goal định hướng cho Product Backlog, mô tả trạng thái tương lai của sản phẩm.
-Đây là mục tiêu dài hạn của Scrum Team.
-Các mục trong Product Backlog giúp hiện thực hóa Product Goal theo thời gian, dựa trên việc học hỏi qua từng Sprint.
-Nó là một tuyên bố ngắn gọn, định hướng và tạo mục đích làm việc cho Scrum Team và các bên liên quan.
-Product Owner chịu trách nhiệm tạo ra và truyền đạt Product Goal.
+- Product Goal định hướng cho Product Backlog, mô tả trạng thái tương lai của sản phẩm.
+- Đây là mục tiêu dài hạn của Scrum Team.
+- Các mục trong Product Backlog giúp hiện thực hóa Product Goal theo thời gian, dựa trên việc học hỏi qua từng Sprint.
+- Nó là một tuyên bố ngắn gọn, định hướng và tạo mục đích làm việc cho Scrum Team và các bên liên quan.
+- Product Owner chịu trách nhiệm tạo ra và truyền đạt Product Goal.
 
 **3.2. Đặc điểm của Product Goal**
 
-Chỉ có một Product Goal tại một thời điểm trong Product Backlog.
-Product Backlog thay đổi theo thời gian, phản ánh quá trình học hỏi của Scrum Team về sản phẩm và cách phát triển sản phẩm.
-Mỗi Increment được tạo ra trong Sprint giúp sản phẩm tiến gần hơn đến Product Goal.
-Product Goal được thể hiện rõ ràng trong Product Backlog, tương tự như cách Sprint Goal được thể hiện trong Sprint Backlog.
+- Chỉ có một Product Goal tại một thời điểm trong Product Backlog.
+- Product Backlog thay đổi theo thời gian, phản ánh quá trình học hỏi của Scrum Team về sản phẩm và cách phát triển sản phẩm.
+- Mỗi Increment được tạo ra trong Sprint giúp sản phẩm tiến gần hơn đến Product Goal.
+- Product Goal được thể hiện rõ ràng trong Product Backlog, tương tự như cách Sprint Goal được thể hiện trong Sprint Backlog.
 
 **3.3. Product Goal và Sprint Review**
 
 Trong Sprint Review, Scrum Team cùng các bên liên quan sẽ đánh giá Increment và tiến độ đạt được đối với Product Goal.
+
 Sprint Review giúp đặt bối cảnh cho các thảo luận về tiến độ và đưa ra các câu hỏi quan trọng.
+
 Những phát hiện từ Sprint Review sẽ ảnh hưởng đến Sprint Planning cho Sprint tiếp theo, giúp xác định trọng tâm công việc.
 
 **4. Definition of Done?**
@@ -382,30 +411,35 @@ Những phát hiện từ Sprint Review sẽ ảnh hưởng đến Sprint Planni
 
 Nếu bạn mới bắt đầu sử dụng Scrum, bạn sẽ nghe rất nhiều về khái niệm "Done" và "Definition of Done". Hãy hình dung 
 "Done" là tất cả những yếu tố cần có để một Increment được xem là hoàn chỉnh.
+
 Definition of Done (DoD) là một cam kết của Developers đối với Increment, giống như Sprint Goal là cam kết đối với 
 Sprint Backlog, và Product Goal là cam kết của Product Owner đối với Product Backlog.
+
 Scrum Guide mô tả Definition of Done là một mô tả chính thức về trạng thái của Increment khi nó đáp ứng các tiêu chuẩn 
 chất lượng cần thiết. Khi một Increment đạt đến trạng thái Done, nó có thể được bàn giao hoặc phát hành.
 
 **4.2. Lợi ích của Definition of Done**
 
-Tạo sự minh bạch: Mọi người có cùng hiểu biết về công việc đã hoàn thành và các tiêu chuẩn cần đáp ứng.
-Kiểm soát chất lượng: Nếu một Product Backlog Item chưa đáp ứng Definition of Done, nó không thể được phát hành.
-Đảm bảo tuân thủ tiêu chuẩn: Nếu tổ chức có các tiêu chuẩn chất lượng riêng, tất cả các Scrum Teams phải tuân theo. 
+- **Tạo sự minh bạch:** Mọi người có cùng hiểu biết về công việc đã hoàn thành và các tiêu chuẩn cần đáp ứng.
+- **Kiểm soát chất lượng:** Nếu một Product Backlog Item chưa đáp ứng Definition of Done, nó không thể được phát hành.
+- **Đảm bảo tuân thủ tiêu chuẩn:** Nếu tổ chức có các tiêu chuẩn chất lượng riêng, tất cả các Scrum Teams phải tuân theo. 
 Nếu không có, nhóm Scrum tự thiết lập tiêu chuẩn phù hợp với sản phẩm.
 
 **4.3. Cách tạo Definition of Done**
 
 Nhóm Scrum có thể làm việc cùng nhau để xác định các tiêu chí cần thiết. Một số nhóm có thể sử dụng các phương pháp tư 
 duy sáng tạo như Liberating Structures để xác định Definition of Done.
+
 Dưới đây là một số ví dụ về các tiêu chí có thể có trong Definition of Done:
-Ví dụ cho một ứng dụng phần mềm y tế
-Hoàn thành tất cả các bài kiểm thử.
-Không có lỗi được biết đến.
-Đã hoàn thành và vượt qua quy trình kiểm tra mã nguồn (code review).
-Đáp ứng tiêu chuẩn bảo mật.
-Tuân thủ các yêu cầu bảo mật chung.
-Khi tất cả tiêu chí trong Definition of Done được đáp ứng, Increment được coi là Done. Trong các dự án phức tạp, 
+
+**Ví dụ cho một ứng dụng phần mềm y tế**
+- Hoàn thành tất cả các bài kiểm thử.
+- Không có lỗi được biết đến.
+- Đã hoàn thành và vượt qua quy trình kiểm tra mã nguồn (code review).
+- Đáp ứng tiêu chuẩn bảo mật.
+- Tuân thủ các yêu cầu bảo mật chung.
+
+Khi tất cả tiêu chí trong _Definition of Done_ được đáp ứng, Increment được coi là _Done_. Trong các dự án phức tạp, 
 Definition of Done có thể được mở rộng để đảm bảo các tiêu chuẩn chất lượng nghiêm ngặt hơn.
 
     """)
@@ -415,43 +449,43 @@ Definition of Done có thể được mở rộng để đảm bảo các tiêu 
     
 **1. Tăng khả năng thích ứng và linh hoạt **
 
-Scrum giúp nhóm phản ứng nhanh với sự thay đổi yêu cầu từ khách hàng hoặc thị trường.
-Thay vì lên kế hoạch cố định dài hạn, nhóm làm việc theo từng Sprint ngắn (thường là 2-4 tuần), dễ dàng điều chỉnh hướng 
+- Scrum giúp nhóm phản ứng nhanh với sự thay đổi yêu cầu từ khách hàng hoặc thị trường.
+- Thay vì lên kế hoạch cố định dài hạn, nhóm làm việc theo từng Sprint ngắn (thường là 2-4 tuần), dễ dàng điều chỉnh hướng 
 đi khi cần.
 
 **2. Cải thiện hiệu suất và tốc độ phát triển** 
 
-Nhóm chỉ tập trung vào các công việc quan trọng trong Sprint hiện tại, tránh lãng phí thời gian vào những tính năng 
+- Nhóm chỉ tập trung vào các công việc quan trọng trong Sprint hiện tại, tránh lãng phí thời gian vào những tính năng 
 không cần thiết.
-Scrum khuyến khích các cuộc họp ngắn hằng ngày (Daily Scrum) giúp nhanh chóng phát hiện và giải quyết vấn đề.
+- Scrum khuyến khích các cuộc họp ngắn hằng ngày (Daily Scrum) giúp nhanh chóng phát hiện và giải quyết vấn đề.
 
 **3. Tăng chất lượng sản phẩm **
 
-Mỗi Increment (phần sản phẩm hoàn thành) phải đáp ứng tiêu chuẩn Definition of Done, đảm bảo chất lượng trước khi phát 
+- Mỗi Increment (phần sản phẩm hoàn thành) phải đáp ứng tiêu chuẩn Definition of Done, đảm bảo chất lượng trước khi phát 
 hành.
-Scrum tạo điều kiện cho phản hồi sớm từ khách hàng hoặc người dùng, giúp cải thiện sản phẩm liên tục.
+- Scrum tạo điều kiện cho phản hồi sớm từ khách hàng hoặc người dùng, giúp cải thiện sản phẩm liên tục.
 
 **4. Minh bạch và cải thiện sự phối hợp trong nhóm **
 
-Tất cả thành viên đều có chung hiểu biết về tiến độ công việc thông qua các Artifact như Product Backlog, Sprint 
+- Tất cả thành viên đều có chung hiểu biết về tiến độ công việc thông qua các Artifact như Product Backlog, Sprint 
 Backlog, và Increment.
-Cuộc họp Sprint Review giúp nhóm đánh giá kết quả, còn Sprint Retrospective giúp nhóm cải thiện cách làm việc.
+- Cuộc họp Sprint Review giúp nhóm đánh giá kết quả, còn Sprint Retrospective giúp nhóm cải thiện cách làm việc.
 
 **5. Giảm rủi ro **
 
-Scrum giúp phát hiện và xử lý rủi ro sớm nhờ cách làm việc theo chu kỳ ngắn.
-Thay vì đợi đến cuối dự án để kiểm tra, Scrum liên tục cung cấp các phiên bản sản phẩm nhỏ nhưng có thể sử dụng được.
+- Scrum giúp phát hiện và xử lý rủi ro sớm nhờ cách làm việc theo chu kỳ ngắn.
+- Thay vì đợi đến cuối dự án để kiểm tra, Scrum liên tục cung cấp các phiên bản sản phẩm nhỏ nhưng có thể sử dụng được.
 
 **6. Tăng sự hài lòng của khách hàng**
 
-Scrum đảm bảo rằng sản phẩm phát triển theo đúng nhu cầu khách hàng thông qua phản hồi liên tục.
-Scrum không chỉ tập trung vào việc hoàn thành công việc mà còn đặt giá trị sản phẩm và trải nghiệm người dùng lên hàng 
+- Scrum đảm bảo rằng sản phẩm phát triển theo đúng nhu cầu khách hàng thông qua phản hồi liên tục.
+- Scrum không chỉ tập trung vào việc hoàn thành công việc mà còn đặt giá trị sản phẩm và trải nghiệm người dùng lên hàng 
 đầu.
 
 **7. Cải thiện động lực và trách nhiệm của nhóm**
 
-Scrum tạo ra môi trường tự quản lý, nơi nhóm quyết định cách thực hiện công việc thay vì bị áp đặt từ trên xuống.
-Sự tham gia chủ động của nhóm giúp họ có trách nhiệm hơn với công việc.
+- Scrum tạo ra môi trường tự quản lý, nơi nhóm quyết định cách thực hiện công việc thay vì bị áp đặt từ trên xuống.
+- Sự tham gia chủ động của nhóm giúp họ có trách nhiệm hơn với công việc.
 
     """)
 
@@ -472,15 +506,15 @@ một lộ trình rõ ràng để giúp một nhóm non trẻ phát triển từ
 
 **1.2. Tại sao đây là vấn đề?**
 
-Các nhóm mới vào có thể gặp khó khăn khi tự tổ chức do thiếu kinh nghiệm làm việc theo mô hình Agile.
-Scrum không có hướng dẫn cụ thể về cách xây dựng năng lực nhóm theo thời gian.
-Nếu không có một Scrum Master hoặc người hướng dẫn có kinh nghiệm, nhóm có thể gặp khó khăn trong việc định hướng, dẫn 
+- Các nhóm mới vào có thể gặp khó khăn khi tự tổ chức do thiếu kinh nghiệm làm việc theo mô hình Agile.
+- Scrum không có hướng dẫn cụ thể về cách xây dựng năng lực nhóm theo thời gian.
+- Nếu không có một Scrum Master hoặc người hướng dẫn có kinh nghiệm, nhóm có thể gặp khó khăn trong việc định hướng, dẫn 
 đến việc áp dụng Scrum không hiệu quả.
 
 **1.3. Giải pháp khắc phục**
 
-Áp dụng mô hình Tuckman Model: Giúp đội ngũ hiểu các giai đoạn phát triển từ Forming → Storming→ Norming → Performing.
-Huấn luyện và đào tạo Scrum Master để hướng dẫn nhóm vượt qua các rào cản ban đầu.
+- Áp dụng mô hình Tuckman Model: Giúp đội ngũ hiểu các giai đoạn phát triển từ Forming → Storming→ Norming → Performing.
+- Huấn luyện và đào tạo Scrum Master để hướng dẫn nhóm vượt qua các rào cản ban đầu.
 
 **2. Thiếu tự chủ và kinh nghiệm trong đội ngũ phát triển**
 
@@ -492,17 +526,17 @@ việc tự chủ.
 
 **2.2. Tại sao đây là vấn đề?**
 
-Một nhóm chưa có kinh nghiệm Scrum có thể không biết cách tự phân công công việc hoặc không rõ ai chịu trách nhiệm 
+- Một nhóm chưa có kinh nghiệm Scrum có thể không biết cách tự phân công công việc hoặc không rõ ai chịu trách nhiệm 
 chính.
-Nếu không có sự hướng dẫn từ Scrum Master, nhóm có thể rơi vào tình trạng hỗn loạn, dẫn đến chậm tiến độ hoặc làm việc 
+- Nếu không có sự hướng dẫn từ Scrum Master, nhóm có thể rơi vào tình trạng hỗn loạn, dẫn đến chậm tiến độ hoặc làm việc 
 kém hiệu quả.
-Các thành viên có thể thiếu kỹ năng giao tiếp và ra quyết định nhanh trong nhóm tự tổ chức.
+- Các thành viên có thể thiếu kỹ năng giao tiếp và ra quyết định nhanh trong nhóm tự tổ chức.
 
 **2.3. Giải pháp khắc phục**
 
-Huấn luyện về Agile mindset cho đội ngũ để nâng cao khả năng tự tổ chức.
-Scrum Master nên đóng vai trò người hướng dẫn thay vì chỉ là người điều phối – giúp nhóm phát triển tư duy tự chủ.
-Tổ chức các buổi workshop về giao tiếp nhóm và ra quyết định nhanh trong Scrum để cải thiện kỹ năng làm việc nhóm.
+- Huấn luyện về Agile mindset cho đội ngũ để nâng cao khả năng tự tổ chức.
+- Scrum Master nên đóng vai trò người hướng dẫn thay vì chỉ là người điều phối – giúp nhóm phát triển tư duy tự chủ.
+- Tổ chức các buổi workshop về giao tiếp nhóm và ra quyết định nhanh trong Scrum để cải thiện kỹ năng làm việc nhóm.
 
 **3. Scrum chỉ là khung làm việc, không cung cấp đầy đủ công cụ và quy trình chi tiết**
 
@@ -513,15 +547,15 @@ quy trình phát triển phần mềm.
 
 **3.2. Tại sao đây là vấn đề?**
 
-Scrum không quy định công cụ nào nên dùng, cách quản lý tài nguyên, hay cách đo lường hiệu suất nhóm.
-Các nhóm có thể cảm thấy lạc lõng nếu không có sự chuẩn bị trước về công cụ và quy trình bổ sung.
-Scrum không có hướng dẫn cụ thể về quản lý ngân sách, quản lý rủi ro, hay kế hoạch dự phòng – điều này có thể gây khó 
+- Scrum không quy định công cụ nào nên dùng, cách quản lý tài nguyên, hay cách đo lường hiệu suất nhóm.
+- Các nhóm có thể cảm thấy lạc lõng nếu không có sự chuẩn bị trước về công cụ và quy trình bổ sung.
+- Scrum không có hướng dẫn cụ thể về quản lý ngân sách, quản lý rủi ro, hay kế hoạch dự phòng – điều này có thể gây khó 
 khăn cho các tổ chức lớn hoặc các dự án phức tạp.
 
 **3.3. Giải pháp khắc phục**
 
-Sử dụng các công cụ quản lý dự án như Jira, Trello hoặc Azure DevOps để theo dõi tiến độ công việc.
-Tích hợp mô hình DevOps để hỗ trợ triển khai và duy trì sản phẩm hiệu quả hơn.
+- Sử dụng các công cụ quản lý dự án như Jira, Trello hoặc Azure DevOps để theo dõi tiến độ công việc.
+- Tích hợp mô hình DevOps để hỗ trợ triển khai và duy trì sản phẩm hiệu quả hơn.
 
 **4. Tự quản lý là yếu tố quan trọng nhưng không phải nhóm nào cũng có thể áp dụng dễ dàng**
 
@@ -532,15 +566,15 @@ nhiên, trong thực tế, không phải nhóm nào cũng có thể áp dụng m
 
 **4.2. Tại sao đây là vấn đề?**
 
-Nếu các thành viên trong nhóm không quen với việc đưa ra quyết định độc lập, tiến độ công việc có thể bị đình trệ.
-Một số nhóm vẫn quen với cách làm việc chỉ huy – phản hồi, nên khó thích nghi với Scrum.
-Nếu không có Scrum Master đủ kinh nghiệm, nhóm có thể mất phương hướng hoặc đi lệch khỏi mục tiêu ban đầu.
+- Nếu các thành viên trong nhóm không quen với việc đưa ra quyết định độc lập, tiến độ công việc có thể bị đình trệ.
+- Một số nhóm vẫn quen với cách làm việc chỉ huy – phản hồi, nên khó thích nghi với Scrum.
+- Nếu không có Scrum Master đủ kinh nghiệm, nhóm có thể mất phương hướng hoặc đi lệch khỏi mục tiêu ban đầu.
 
 **4.3. Giải pháp khắc phục**
 
-Tổ chức các buổi huấn luyện về kỹ năng tự quản lý và ra quyết định nhóm.
-Áp dụng kỹ thuật Lean Agile Leadership, nơi quản lý đóng vai trò hỗ trợ thay vì kiểm soát.
-Sử dụng các OKRs (Objectives and Key Results) để giúp nhóm có định hướng rõ ràng mà vẫn giữ được sự tự chủ.
+- Tổ chức các buổi huấn luyện về kỹ năng tự quản lý và ra quyết định nhóm.
+- Áp dụng kỹ thuật Lean Agile Leadership, nơi quản lý đóng vai trò hỗ trợ thay vì kiểm soát.
+- Sử dụng các OKRs (Objectives and Key Results) để giúp nhóm có định hướng rõ ràng mà vẫn giữ được sự tự chủ.
 
     """)
 
@@ -596,5 +630,5 @@ _MUST-KNOW Jira features for Scrum Masters_ [Video]. YouTube. Retrieved March 6,
 # Tab 2 - Video
 with tab2:
     st.subheader("Video mô tả quy trình làm việc Scrum trong Jira")
-    st.video("https://drive.google.com/file/d/1egH6nyQmaXCtzAuqVhKfGydTZzpF8bOy/view")
+    st.video("https://raw.githubusercontent.com/KietPham-VN/TechAwayScrum/main/assets/")
 
