@@ -30,7 +30,11 @@ tab1, tab2 = st.tabs(["Bài viết", "Video"])
 
 # Tab 1 - Nội dung bài viết
 with tab1:
-    st.markdown("<h2 style='color: #FFC81B;'>SCRUM FRAMEWORK – PHƯƠNG PHÁP GIÚP QUẢN LÝ DỰ ÁN TỐI ƯU</h2>", unsafe_allow_html=True)
+    st.markdown(
+        "<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>",
+        unsafe_allow_html=True,
+    )
+    st.markdown("<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>", unsafe_allow_html=True)
     st.markdown("#### **Thành viên thực hiện:**")
     st.markdown("""
     - *Hoàng Thị Khánh Linh – SE190721*  
@@ -40,6 +44,8 @@ with tab1:
     # TOÀN BỘ NỘI DUNG SCRUM FRAMEWORK
 
     st.markdown("---")
+    st.markdown("#SCRUM FRAMEWORK – PHƯƠNG PHÁP GIÚP QUẢN LÝ DỰ ÁN TỐI ƯU")
+
     st.markdown("""<h3>I. Lý do chọn đề tài</h3>""", unsafe_allow_html=True)
     st.markdown("""
 Trong bối cảnh phát triển nhanh chóng  của ngành công nghệ thông tin hiện nay, các phương pháp quản lý dự án truyền 
