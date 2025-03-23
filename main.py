@@ -30,21 +30,17 @@ tab1, tab2 = st.tabs(["Bài viết", "Video"])
 
 # Tab 1 - Nội dung bài viết
 with tab1:
-    st.markdown(
-        "<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>",
-        unsafe_allow_html=True,
-    )
     st.markdown("<h2 style='color: #FFC81B;'>F-Code [Techaway 2025]</h2>", unsafe_allow_html=True)
     st.markdown("#### **Thành viên thực hiện:**")
     st.markdown("""
-    - *Hoàng Thị Khánh Linh – SE190721*  
+    - *Hoàng Thị Khánh Linh – SE190721*
     - *Đào Thị Út Trinh – SE196429*
     """)
 
     # TOÀN BỘ NỘI DUNG SCRUM FRAMEWORK
 
     st.markdown("---")
-    st.markdown("#SCRUM FRAMEWORK – PHƯƠNG PHÁP GIÚP QUẢN LÝ DỰ ÁN TỐI ƯU")
+    st.markdown("# SCRUM FRAMEWORK – PHƯƠNG PHÁP GIÚP QUẢN LÝ DỰ ÁN TỐI ƯU")
 
     st.markdown("""<h3>I. Lý do chọn đề tài</h3>""", unsafe_allow_html=True)
     st.markdown("""
